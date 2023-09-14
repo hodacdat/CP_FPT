@@ -4,6 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This is the Capstone project for final semester at FPT University Da Nang (05/2023 - 08/2023)
+
+Contributors:
+
+- Nguyen Quang Hung
+- Le The Son
+- Nguyen Dinh Phong
+- Ho Dac Dat
+
 In the project directory, you can run:
 
 ### `npm start`
