@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+  api-service:
+    image: myspringapp:latest
+    container_name: myspringapp-container
+    ports:
+      - "8080:8080"
